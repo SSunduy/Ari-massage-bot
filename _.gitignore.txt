@@ -1,0 +1,6 @@
+__pycache__
+*.db-journal
+data/bookings.db
+env/
+*.log
+config.py
